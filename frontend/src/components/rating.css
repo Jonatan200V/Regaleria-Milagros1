@@ -1,0 +1,18 @@
+span {
+  display: inline;
+}
+i {
+  padding: 1.2rem 1.2rem 1.2rem 0;
+}
+.rating {
+  font-size: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  fill: #ffcc00;
+}
+.rating__reviews {
+  font-size: 16px;
+  color: #48d154;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.img__placeorder {
+  border: 1px solid #a0a0a0;
+  padding: 0.8rem;
+  margin-right: 1.2rem;
+  height: 10px;
+}
+.container__placeorder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

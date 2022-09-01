@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+/* ////////////////// */
+.sigin__container {
+  max-width: 600px;
+}
